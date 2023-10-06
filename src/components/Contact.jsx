@@ -35,14 +35,14 @@ const Contact = () => {
 
 
     emailjs.send(
-      'service0cwjn3h', 'templatepjww31k',
+      'service_hzg1568', 'template_2767ikh',
       {
         from_name: form.name,
         to_name: 'Simran Grewal',
         from_email: form.email,
         to_email: "simrangrewal82457@gmail.com",
         message: form.message,
-      }, 'MRimJNbXJC8kYo2lMGcO')
+      }, 'Ekt7L9PAzPSfIgQ4y')
       .then(
         () => {
           setLoading(false);
