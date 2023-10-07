@@ -130,7 +130,7 @@ import {
     },
     {
       title: "React Native Developer",
-      company_name: "Tesla",
+      company_name: "Tesla India",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
@@ -156,7 +156,7 @@ import {
     },
     {
       title: "Full stack Developer",
-      company_name: "Meta",
+      company_name: "American Express",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Aug 2023",
